@@ -25,8 +25,13 @@
       <file leaf-file-name="SecretSanta.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SecretSanta.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.232493">
               <caret line="105" column="66" selection-start-line="105" selection-start-column="66" selection-end-line="105" selection-end-column="66" />
+=======
+            <state vertical-scroll-proportion="0.48459384">
+              <caret line="111" column="4" selection-start-line="111" selection-start-column="4" selection-end-line="111" selection-end-column="4" />
+>>>>>>> 8eb17174ef681c91dde8ab25b42ae896ead25e5f
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -470,8 +475,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SecretSanta.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.232493">
           <caret line="105" column="66" selection-start-line="105" selection-start-column="66" selection-end-line="105" selection-end-column="66" />
+=======
+        <state vertical-scroll-proportion="0.48459384">
+          <caret line="111" column="4" selection-start-line="111" selection-start-column="4" selection-end-line="111" selection-end-column="4" />
+>>>>>>> 8eb17174ef681c91dde8ab25b42ae896ead25e5f
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
